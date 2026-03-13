@@ -1,2 +1,5 @@
 # ITJ-Hackathon-2026
-Prototype AI-powered ideas for miCoach and co-create the ideal digital coaching experience for tech professionals like you!
+
+### What is the miCoach Hackathon?
+
+Our goal is to revolutionize the Product Discovery phase of the 'Digital Coach' for LATAM engineers, using the power of Artificial Intelligence to boost our region's talent.
